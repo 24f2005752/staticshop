@@ -1,3 +1,4 @@
+
 {
   "metadata": {
     "email": "24f2005752@ds.study.iitm.ac.in",
@@ -25,6 +26,10 @@
     "clothing": {
       "count": 1,
       "inventoryValue": 7821.44
+    },
+    "electronics": {
+      "count": 3,
+      "inventoryValue": 117983.10
     }
   }
 }
