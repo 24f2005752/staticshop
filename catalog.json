@@ -4,22 +4,22 @@
     "version": "3565f90a"
   },
   "products": [
-    {"id": 1, "name": "Blue T-Shirt", "category": "clothing", "price": 78.2144, "stock": 100, "rating": 4.2},
-    {"id": 2, "name": "Red Dress", "category": "clothing", "price": 102.5, "stock": 50, "rating": 4.5},
-    {"id": 3, "name": "Wireless Mouse", "category": "electronics", "price": 25.99, "stock": 200, "rating": 4.1},
-    {"id": 4, "name": "Mechanical Keyboard", "category": "electronics", "price": 89.99, "stock": 120, "rating": 4.6},
-    {"id": 5, "name": "Gaming Monitor", "category": "electronics", "price": 249.99, "stock": 60, "rating": 4.7},
-    {"id": 6, "name": "Coffee Mug", "category": "kitchen", "price": 12.5, "stock": 300, "rating": 4.0},
-    {"id": 7, "name": "Chef Knife", "category": "kitchen", "price": 45.0, "stock": 150, "rating": 4.5},
-    {"id": 8, "name": "Cutting Board", "category": "kitchen", "price": 15.0, "stock": 200, "rating": 4.2},
-    {"id": 9, "name": "Notebook", "category": "stationery", "price": 3.5, "stock": 500, "rating": 4.1},
-    {"id": 10, "name": "Pen Set", "category": "stationery", "price": 7.99, "stock": 400, "rating": 4.0},
-    {"id": 11, "name": "Backpack", "category": "accessories", "price": 49.99, "stock": 80, "rating": 4.3},
-    {"id": 12, "name": "Sunglasses", "category": "accessories", "price": 99.99, "stock": 60, "rating": 4.6},
-    {"id": 13, "name": "Running Shoes", "category": "footwear", "price": 120.0, "stock": 70, "rating": 4.5},
-    {"id": 14, "name": "Sandals", "category": "footwear", "price": 35.0, "stock": 100, "rating": 4.1},
-    {"id": 15, "name": "Winter Jacket", "category": "clothing", "price": 120.0, "stock": 10, "rating": 4.8},
-    {"id": 16, "name": "Beanie", "category": "clothing", "price": 50.0, "stock": 20, "rating": 4.4}
+    {"id": "prod-3565f90a-001", "name": "Premium Item 1", "category": "electronics", "price": 408.02, "stock": 63, "rating": 4.7},
+    {"id": "prod-3565f90a-002", "name": "Basic Item 2", "category": "books", "price": 75.29, "stock": 107, "rating": 2.8},
+    {"id": "prod-3565f90a-003", "name": "Elite Item 3", "category": "electronics", "price": 281.48, "stock": 177, "rating": 4.5},
+    {"id": "prod-3565f90a-004", "name": "Elite Item 4", "category": "clothing", "price": 244.42, "stock": 32, "rating": 4.9},
+    {"id": "prod-3565f90a-005", "name": "Basic Item 5", "category": "books", "price": 26.41, "stock": 27, "rating": 4},
+    {"id": "prod-3565f90a-006", "name": "Premium Item 6", "category": "home", "price": 76.62, "stock": 21, "rating": 1.2},
+    {"id": "prod-3565f90a-007", "name": "Premium Item 7", "category": "electronics", "price": 310.24, "stock": 137, "rating": 1.7},
+    {"id": "prod-3565f90a-008", "name": "Premium Item 8", "category": "books", "price": 166.6, "stock": 91, "rating": 3.5},
+    {"id": "prod-3565f90a-009", "name": "Basic Item 9", "category": "home", "price": 38.11, "stock": 198, "rating": 1.8},
+    {"id": "prod-3565f90a-010", "name": "Standard Item 10", "category": "sports", "price": 109.9, "stock": 67, "rating": 2.3},
+    {"id": "prod-3565f90a-011", "name": "Elite Item 11", "category": "books", "price": 222.64, "stock": 150, "rating": 3.1},
+    {"id": "prod-3565f90a-012", "name": "Basic Item 12", "category": "sports", "price": 349.11, "stock": 23, "rating": 2.3},
+    {"id": "prod-3565f90a-013", "name": "Elite Item 13", "category": "sports", "price": 181.74, "stock": 129, "rating": 3.4},
+    {"id": "prod-3565f90a-014", "name": "Standard Item 14", "category": "home", "price": 385.74, "stock": 106, "rating": 2.5},
+    {"id": "prod-3565f90a-015", "name": "Premium Item 15", "category": "books", "price": 178.27, "stock": 117, "rating": 4.4},
+    {"id": "prod-3565f90a-016", "name": "Standard Item 16", "category": "sports", "price": 324.89, "stock": 142, "rating": 2.3}
   ],
   "aggregations": {
     "clothing": {
