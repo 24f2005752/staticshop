@@ -22,10 +22,10 @@
     {"id": "prod-3565f90a-016", "name": "Standard Item 16", "category": "sports", "price": 324.89, "stock": 142, "rating": 2.3}
   ],
   "aggregations": {
-    "electronics": {"count": 3, "inventoryValue": 118030.1},
-    "books": {"count": 5, "inventoryValue": 78181.29},
+    "electronics": {"count": 3, "inventoryValue": 118030.10},
+    "books": {"count": 5, "inventoryValue": 78183.29},
     "clothing": {"count": 1, "inventoryValue": 7821.44},
-    "home": {"count": 3, "inventoryValue": 46617.18},
-    "sports": {"count": 4, "inventoryValue": 112460.38}
+    "home": {"count": 3, "inventoryValue": 49616.04},
+    "sports": {"count": 4, "inventoryValue": 84949.67}
   }
 }
