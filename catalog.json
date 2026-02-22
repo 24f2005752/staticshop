@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "email": "24f2005752@ds.study.iitm.ac.in",
+    "version": "3565f90a"
+  },
+  "products": [
+    {"id": 1, "name": "Blue T-Shirt", "category": "clothing", "price": 78.2144, "stock": 100, "rating": 4.2},
+    {"id": 2, "name": "Red Dress", "category": "clothing", "price": 102.5, "stock": 50, "rating": 4.5},
+    {"id": 3, "name": "Wireless Mouse", "category": "electronics", "price": 25.99, "stock": 200, "rating": 4.1},
+    {"id": 4, "name": "Mechanical Keyboard", "category": "electronics", "price": 89.99, "stock": 120, "rating": 4.6},
+    {"id": 5, "name": "Gaming Monitor", "category": "electronics", "price": 249.99, "stock": 60, "rating": 4.7},
+    {"id": 6, "name": "Coffee Mug", "category": "kitchen", "price": 12.5, "stock": 300, "rating": 4.0},
+    {"id": 7, "name": "Chef Knife", "category": "kitchen", "price": 45.0, "stock": 150, "rating": 4.5},
+    {"id": 8, "name": "Cutting Board", "category": "kitchen", "price": 15.0, "stock": 200, "rating": 4.2},
+    {"id": 9, "name": "Notebook", "category": "stationery", "price": 3.5, "stock": 500, "rating": 4.1},
+    {"id": 10, "name": "Pen Set", "category": "stationery", "price": 7.99, "stock": 400, "rating": 4.0},
+    {"id": 11, "name": "Backpack", "category": "accessories", "price": 49.99, "stock": 80, "rating": 4.3},
+    {"id": 12, "name": "Sunglasses", "category": "accessories", "price": 99.99, "stock": 60, "rating": 4.6},
+    {"id": 13, "name": "Running Shoes", "category": "footwear", "price": 120.0, "stock": 70, "rating": 4.5},
+    {"id": 14, "name": "Sandals", "category": "footwear", "price": 35.0, "stock": 100, "rating": 4.1},
+    {"id": 15, "name": "Winter Jacket", "category": "clothing", "price": 120.0, "stock": 10, "rating": 4.8},
+    {"id": 16, "name": "Beanie", "category": "clothing", "price": 50.0, "stock": 20, "rating": 4.4}
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 1,
+      "inventoryValue": 7821.44
+    }
+  }
+}
